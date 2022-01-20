@@ -20,5 +20,5 @@ for i in range(0,ln):
     st_1 = st_1 + ch
   else:
     st_1 = st_1 + "#"
-print(st)
+  print(st_1)
   
